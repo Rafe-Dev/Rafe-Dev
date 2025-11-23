@@ -16,7 +16,8 @@ Sobre mim:
 
 - Eu já trabalhei com essas Tecnologias e Ferramentas 🔧
 
-<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/4bbaf498-a3b8-438c-96f6-73bab95599fa" /> <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/8b5c6849-28aa-46df-8822-8882a2c5028d" /> <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/03ef3bbf-b247-4674-b5f9-fe06815c4487" /> <img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/ebea8d02-7b2f-4776-bb38-023d50926c04" />
+<img width="82" height="28" alt="image" src="https://github.com/user-attachments/assets/c13fd524-1ef1-44ba-8a9a-5dd4429a4a21" />
+<img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/4bbaf498-a3b8-438c-96f6-73bab95599fa" /> <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/8b5c6849-28aa-46df-8822-8882a2c5028d" /> <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/03ef3bbf-b247-4674-b5f9-fe06815c4487" /> <img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/ebea8d02-7b2f-4776-bb38-023d50926c04" /> 
 
 - Eu estou estudando... 🧩
 
