@@ -22,6 +22,8 @@ Sobre mim:
 
 <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/086813df-aab1-4edd-8493-898c87b31314" /> <img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/154e6460-3ed9-4320-9f50-e36a4d2cd95a" />
 <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/2cd08462-d4c9-4427-8161-26ff166b329a" /> <img width="101" height="28" alt="image" src="https://github.com/user-attachments/assets/9095d78f-d606-4ce7-8d95-723fbf55a77f" />
+<img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/ba36b95d-75a7-418b-b206-0c2206ea52c1" />
+
 
 - 🌐 Idiomas
 
