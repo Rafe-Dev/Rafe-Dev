@@ -2,7 +2,7 @@
 
 Sobre mim:
 
-- 💻 Eu sou um desenvolvedor [Front-End | Back-End | (Almejando se tornar um Fullstack
+- 💻 Eu sou um desenvolvedor [Front-End | Back-End | (Almejando se tornar um Fullstack)
 
 - 🎓 Sou estudante de Ciências da computação do 2 período na faculdade UNIPÊ
 
