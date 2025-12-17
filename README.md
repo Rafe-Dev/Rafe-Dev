@@ -6,7 +6,7 @@ Sobre mim:
 
 - 🎓 Sou estudante de Ciências da computação do 2 período na faculdade UNIPÊ
 
-- 👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
+- 👩‍💻 Atualmente se aprimorando para procurar estágio
 
 - 🔎 Também sou curioso sobre desenvolvimente de jogos e web design
 
